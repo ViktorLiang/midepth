@@ -1,6 +1,6 @@
 # Delving into Multi-illumination Depth Estimation: A New Dataset and Method
 
-Official website for MITransformer ([paper](https://ieeexplore.ieee.org/document/10398491)) and MIDepth dataset [Baidu](https://pan.baidu.com/s/1MeQ0rkbyuIbZ5eZh63pVMA?pwd=ahix).
+Official website for MITransformer ([paper](https://ieeexplore.ieee.org/document/10398491)) and MIDepth dataset ([Baidu](https://pan.baidu.com/s/1MeQ0rkbyuIbZ5eZh63pVMA?pwd=ahix)).
 
 ## Requirements
 * python >= 3.9
