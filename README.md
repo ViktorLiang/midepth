@@ -1,9 +1,10 @@
 # Delving into Multi-illumination Depth Estimation: A New Dataset and Method
 
 Official website for MITransformer and MIDepth dataset
+[paper](https://ieeexplore.ieee.org/document/10398491)
 
 ## Dataset
-You can download our full dataset MIDepth at [here](https://pan.baidu.com/s/1MeQ0rkbyuIbZ5eZh63pVMA?pwd=ahix). We will release our full model and the train split soon.
+You can download our full dataset MIDepth at [here](https://pan.baidu.com/s/1MeQ0rkbyuIbZ5eZh63pVMA?pwd=ahix).
 
 ## Requirements
 * python >= 3.9
